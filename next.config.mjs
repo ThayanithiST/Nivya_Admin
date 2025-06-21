@@ -9,6 +9,9 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  output: 'export',
+  basePath: '/Nivya_Admin',
+  assetPrefix: '/Nivya_Admin/',
 }
 
 export default nextConfig
